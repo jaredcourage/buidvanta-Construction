@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Chatra {literal} -->
+<script>
+    (function(d, w, c) {
+        w.ChatraID = 'S449o9nWRXpMjk5nS';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
+        s.async = true;
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');
+</script>
+<!-- /Chatra {/literal} -->
+<head>  
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Build Vanta Construction</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link rel="stylesheet" 
+     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer"
+      />
+           <link rel="icon" type="image/png" href="../Logo(1).png">
+          <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+
+      <style>
+        /* General Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+
+/* Fullscreen submenu page 
+.submenu-page {
+    display: none; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    z-index: 1000;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 50px;
+}
+
+*/
+
+
+
+.submenu-page {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    z-index: 1002; /* Ensure it appears above everything */
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 50px;
+}
+
+
+/* Submenu header with back button */
+.submenu-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background: #f8f8f8;
+    border-bottom: 1px solid #ddd;
+    position: fixed;
+    top: 0;
+}
+
+.submenu-header i {
+    font-size: 24px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+/* Submenu list */
+.submenu-list {
+    list-style: none;
+    padding: 20px;
+    width: 100%;
+    max-width: 500px;
+   
+}
+
+.submenu-list li {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.submenu-list li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+
+/* Smooth transition */
+.submenu-page, .submenu-header {
+    transition: all 0.3s ease-in-out;
+}
+
+        .bringng-new img {
+   width: 100%;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 80px;
+  }      
+        
+  @media (min-width: 700px) {
+
+    .bringng-new img {
+   width: 80%;
+    margin-left: 130px;
+  }      
+  }
+  
+  
+  
+ .facebook-footer {
+    text-align: center; /* Centers the icon */
+    margin-top: 50px; /* Adjust as needed */
+}
+
+.facebook-icon {
+    width: 60px; /* Adjust size */
+    height: 80px;
+    border-radius: 50%;
+    background-color: #1877F2; /* Facebook blue */
+    padding: 10px;
+}
+
+        
+        
+        </style>
+
+
+
+<meta name="google-site-verification" content="PZx3Fmyuy-UOpQSrdW9_J2DWcmf4FKjBeu7JB1GVtB0" />
+
+
+
+</head>
+<body>
+   
+
+
+            
+            
+
+
+          
+   
+    
+
+
+    
+          </header>
+          
+
+
+          
+            
+
+
+          
+
+         
+
+
+<div class="clearfix"></div>
+ 
+
+    </div>
+
+    <div class="content">
+    
+        <header> 
+       
+    
+            <div class="nav-bar">
+                <div class="new-logo-side">
+    
+               <a href="index.html">    <img src="https://talentmingleagency.com/wp-content/uploads/2025/02/Black-and-Orange-Modern-Minimalist-Excavator-Creative-Logo1-1.png"
+                     width="70px" height="auto">
+                    </a> 
+                   <P class="logo-write"></P>
+            </div>
+    
+                   <!--- ruler div under -->
+             
+                <!--- the search code -->
+
+
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search" onkeyup="performSearch()" onkeypress="handleEnter(event)">
+                    <button onclick="redirectToSearch()"><i class="fa-solid fa-magnifying-glass" style="color: black;"></i></button>
+                </div>
+            
+
+
+
+    
+           <ul class="links">
+           
+            <li><a href="index.php" >Home</a></li>
+           <li><a href="about.php">About</a></li>
+           <li><a href="Apply-for-Job.php" >Apply for Job</a></li>
+           <li><a href="contact.php">Contact</a></li>
+           
+           </ul>
+        
+               <a href="#"></a>
+               <a href="#"></a>
+               <a href="contact.php" class="action_btn">Get Started</a>
+              
+
+               <div class="toggle_btn">
+                <a><i class="fa-solid fa-bars" style="color: black;"></i></a>
+               
+             </div>
+
+           </div>
+           
+           
+         
+           <div class="dropdown_menu">
+
+
+
+            <!------>
+        
+        
+<!-- First Dropdown: SECTORS -->
+<div class="dropdown-item" data-target="submenuSectors">
+    <li>
+    <a class="firstchild" href="#">Sectors<i class="fa-solid fa-chevron-right dropdown_icon"></i></a>
+       
+    </li>
+</div>
+
+<!-- Second Dropdown: SERVICES -->
+<div class="dropdown-item" data-target="submenuServices">
+    <li>
+        <a class="firstchild" href="#">Services<i class="fa-solid fa-chevron-right dropdown_icon"></i></a>
+        
+    </li>
+</div>
+
+<!-- 🔥 NEW: Third Dropdown: Careers -->
+<div class="dropdown-item" data-target="submenuCareers">
+    <li>
+        <a class="firstchild" href="#">Career<i class="fa-solid fa-chevron-right dropdown_icon"></i></a>
+    </li>
+</div>
+
+
+<!-- 🔥 NEW: 4 Dropdown: WHO we are -->
+<div class="dropdown-item" data-target="submenuWhoweare">
+    <li>
+        <a class="firstchild" href="#">Who we are<i class="fa-solid fa-chevron-right dropdown_icon" style="size:10px ;"></i></a>
+       
+    </li>
+</div>
+
+
+<!-- 🔥 NEW: 5 Dropdown: Insight -->
+<div class="dropdown-item" data-target="submenuInsight">
+    <li>
+        <a class="firstchild" href="#">Insights<i class="fa-solid fa-chevron-right dropdown_icon" style="size:10px ;"></i></a>
+       
+    </li>
+</div>
+
+
+<!-- 🔥 NEW: 6 Dropdown: Our Work -->
+<div class="dropdown-item" data-target="submenuOurwork">
+    <li>
+        <a class="firstchild" href="Our Work.php">Our Work</a>
+       
+    </li>
+</div>
+
+
+
+
+
+<!-- 🔥 NEW: 7 Dropdown: Our Work -->
+<div class="dropdown-item" data-target="submenuContactUs">
+    <li>
+        <a class="firstchild" href="contact us.php">Contact Us</a>
+       
+    </li>
+</div>
+
+
+<!-- 🔥 NEW: 11 Dropdown: Our Work -->
+<div class="dropdown-item" data-target="submenuNewsRoom">
+    <li>
+        <a class="firstchild" href="Newsroom.php">NewsRoom</a>
+       
+    </li>
+</div>
+
+
+
+
+
+<!-- 🔥 NEW: 8 Dropdown: Our Work -->
+<div class="dropdown-item" data-target="submenuContact">
+    <li>
+        <a class="firstchild" href="Apply Now.php">Apply for Job</a>
+       
+    </li>
+</div>
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<!-- Fullscreen Submenu: SECTORS -->
+<div id="submenuSectors" class="submenu-page">
+<div class="submenu-header">
+    <i class="fa-solid fa-arrow-left back-btn"></i>
+    <h2>Go Back</h2>
+</div>
+<ul class="submenu-list">
+    <li><a href="Water and Wastewater Infrastructure.php">Water and Wastewater Infrastructure</a></li>
+    <li><a href="Transportation Infrastructure.php">Transportation Infrastructure</a></li>
+    <li><a href="Special Projects.php">Special Projects</a></li>
+    <li><a href="Building Revitalization and Retrofits.php">Building Revitalization and Retrofits</a></li>
+    <li><a href="Agribusiness, Food and Beverage.php">Agribusiness, Food and Beverage</a></li>
+    <li><a class="firstchild" href="Buid A Career With Us.php">Buid A Career with us</a></li>
+</ul>
+</div>
+
+<!-- Fullscreen Submenu: SERVICES -->
+<div id="submenuServices" class="submenu-page">
+<div class="submenu-header">
+    <i class="fa-solid fa-arrow-left back-btn"></i>
+    <h2>Go back</h2>
+</div>
+<ul class="submenu-list">
+    <li><a href="Water and Wastewater Infrastructure.php">Water and Wastewater Infrastructure</a></li>
+    <li><a href="Transportation Infrastructure.php">Transportation Infrastructure</a></li>
+    <li><a href="Special Projects.php">Special Projects</a></li>
+    <li><a href="Building Revitalization and Retrofits.php">Building Revitalization and Retrofits</a></li>
+    <li><a href="Agribusiness, Food and Beverage.php">Agribusiness, Food and Beverage</a></li>
+    <li><a class="firstchild" href="Buid A Career With Us.php">Buid A Career with us</a></li>
+</ul>
+</div>
+
+<!-- 🔥 NEW: Fullscreen Submenu: Carrer -->
+<div id="submenuCareers" class="submenu-page">
+<div class="submenu-header">
+    <i class="fa-solid fa-arrow-left back-btn"></i>
+    <h2>Go back</h2>
+</div>
+<ul class="submenu-list">
+    <li><a href="career.php">Careers</a></li>
+    <li><a href="Apply Now.php">Apply Now</a></li>
+    <li><a href="professional.php">Professionals</a></li>
+    <li><a href="Considering Construction.php">Considering Construction</a></li>
+    <li><a href="skilled-craft.php">Skilled Trades + Craft</a></li>
+    <li><a class="firstchild" href="Buid A Career With Us.php">Buid A Career with us</a></li>
+</ul>
+</div>
+
+
+
+<!-- 🔥 NEW: Fullscreen Submenu: Who we are -->
+<div id="submenuWhoweare" class="submenu-page">
+    <div class="submenu-header">
+        <i class="fa-solid fa-arrow-left back-btn"></i>
+        <h2>Go back</h2>
+    </div>
+    <ul class="submenu-list">
+        <li><a href="About us.php">About BVC</a></li>
+        <li><a href="Our History.php">Our History</a></li>
+        <li><a href="Our Leadership.php">Our Leadership</a></li>
+        <li><a href="Our Owners.php">Our Owners</a></li>
+        <li><a href="sustainability.php">sustainability</a></li>
+        <li><a href="Safety.php">Safety</a></li>
+        <li><a href="Recruitment Fraud Notice.php">Recruitment</a></li>
+    </ul>
+    </div>
+
+
+
+    <!-- 🔥 NEW: Fullscreen Submenu: Insight -->
+<div id="submenuInsight" class="submenu-page">
+    <div class="submenu-header">
+        <i class="fa-solid fa-arrow-left back-btn"></i>
+        <h2>Go back</h2>
+    </div>
+    <ul class="submenu-list">
+        <li><a href="mplementing A Powerful Solution to Prevent Costly Water Damage.php">million passengers annually, so keeping it fully operational during construction was critical.</a></li>
+        <li><a href="Building Anything, Anywhere.php">million passengers annually, so keeping it fully operational during construction was critical.</a></li>
+        <li><a href="Virtual Reality Training.php">Virtual Reality Training is Revolutionizing Construction Safety</a></li>
+        <li><a href="How Intentional Professional Development.php">Implementing A Powerful Solution to Prevent Costly Water Damage</a></li>
+        <li><a href="On-Time Departure: How bvc Accelerated a Critical .php">On-Time Departure: How BVC Accelerated a Critical Airport Road Project in Time for the Holidays</a></li>
+        
+    </ul>
+    </div>
+
+
+            <!----- the second-->
+
+
+            
+                </div>
+                
+
+</header>
+
+
+
+
+</body>
+</html>
+<script src="constuct.js"></script>
