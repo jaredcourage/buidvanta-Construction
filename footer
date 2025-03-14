@@ -1,0 +1,130 @@
+<!--- contact information -->
+
+<section id="contact" class="contact-section">
+    <div class="container-me">
+      <div class="contact-header">
+        <h2>Contact Us</h2>
+        <p>We're here to help! Get in touch with us via any of the methods below.</p>
+      </div>
+  
+      <div class="contact-details">
+        <!-- Office Address -->
+        <div class="contact-card">
+          <div class="icon">
+            <i class="fas fa-map-marker-alt"></i>
+          </div>
+          <div class="info">
+            <h3>Our Office</h3>
+            <p>6501 Mississauga Rd, Mississauga, ON L5N 1A6</p>
+          </div>
+        </div>
+  
+        <!-- Phone Number -->
+        <div class="contact-card">
+          <div class="icon">
+            <i class="fas fa-phone-alt"></i>
+          </div>
+          <div class="info">
+            <h3>Call Us</h3>
+            <p><a href="tel:+1 (587) 332-1117"> +1 (587) 332-1117</a></p>
+          </div>
+        </div>
+  
+        <!-- Email Address -->
+        <div class="contact-card">
+          <div class="icon">
+            <i class="fas fa-envelope"></i>
+          </div>
+          <div class="info">
+            <h3>Email Us</h3>
+            <p><a href="mailto:info@buildvantaconstruction.com">info@buildvantaconstruction.com
+</a></p>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Map Section -->
+      <div class="map">
+        <h3>Our Location</h3>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d11557.261424716919!2d-79.74383818334717!3d43.59997508767167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d43.6050776!2d-79.72876959999999!4m5!1s0x882b402ba4915f39%3A0xcf285cefc8cbc1da!2s6501%20Mississauga%20Rd%2C%20Mississauga%2C%20ON%20L5N%201A6!3m2!1d43.599118399999995!2d-79.7361971!5e0!3m2!1sen!2sca!4v1740904162798!5m2!1sen!2sca" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+  </section>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---- the footer codes -->
+
+  <footer class="footer">
+      <div class="footer-container">
+          
+          <!-- Company Info -->
+          <div class="footer-logo">
+              <h2>BVC Constructions</h2>
+              <p>Building the future, one project at a time.</p>
+          </div>
+          
+          <div class="nav-bar">
+                <div class="new-logo-side">
+    
+               <a href="index.html">    <img src="https://talentmingleagency.com/wp-content/uploads/2025/02/Black-and-Orange-Modern-Minimalist-Excavator-Creative-Logo1-1.png"
+                     width="70px" height="auto">
+                    </a> 
+                   <P class="logo-write"></P>
+            </div>
+    
+
+          <!-- Navigation Links -->
+          <div class="footer-links">
+              <a href="index.php">Home</a>
+              <a href="About us.php">About us</a>
+              <a href="Apply Now.php">Apply Now</a>
+              <a href="Our History.php">Our History</a>
+              <a href="contact us.php">Contact</a>
+          </div>
+
+          <!-- Social Media Icons -->
+          <div class="footer-social">
+              <a href="https://web.facebook.com/BuildVantaConstruction.Ca/" target="_blank" id="buildCareerBtn"><i class="fab fa-facebook"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-linkedin-in"></i></a>
+              <a href="#"><i class="fab fa-youtube"></i></a>
+          </div>
+      </div>
+      
+      <!-- Copyright -->
+      <div class="footer-bottom">
+          <p>&copy; 2025 BVC Constructions. All Rights Reserved.</p>
+      </div>
+  </footer>
+
+
+
+
+
+
+
